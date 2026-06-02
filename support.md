@@ -32,8 +32,6 @@ A foul is detected when the camera sees something unusual — for example, the d
 ### How do I delete my account?
 Tap **ACCOUNT** on the main screen, then use the delete account option. This permanently removes your account and all your game data from our servers. The action is immediate and cannot be undone.
 
-### I forgot my password — what do I do?
-Currently password reset is not yet available in the app. Email us at **dartsleague.support@gmail.com** with the email address on your account and we'll help you recover access.
 
 ### Does the app work without an internet connection?
 You need an internet connection to log in, play online matches, and save game statistics. Once logged in, solo mode and local 1v1 mode work offline.
