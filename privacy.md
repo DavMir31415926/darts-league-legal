@@ -89,7 +89,7 @@ We take reasonable measures to protect your information, but no system is perfec
 
 You have the right to:
 - **Access** the data we hold about you
-- **Correct** inaccurate data (you can edit your username via the app; contact us for other corrections)
+- **Correct** inaccurate data (you can edit your password via the app; contact us for other corrections)
 - **Delete** your account and all associated data at any time using the "Delete Account" function in the app's Account screen. Deletion is permanent and immediate.
 - **Export** a copy of your data — contact us at the email above
 - **Object** to processing or **withdraw consent** — contact us at the email above
