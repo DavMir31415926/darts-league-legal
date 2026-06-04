@@ -18,7 +18,7 @@ We aim to respond within 2–3 business days.
 Point your phone camera at the dartboard before you throw. The app analyzes the camera feed in real time, detects when a dart lands, and calculates the score based on where the dart hit the board. All detection runs locally on your device.
 
 ### Why was my throw scored incorrectly?
-The detection is highly accurate but not perfect — lighting conditions, camera angle, or board obstruction can occasionally cause a wrong reading. After each round you can correct any dart's score by tapping it and selecting the correct value from the nearby options.
+The detection is highly accurate but not perfect — lighting conditions, camera angle, or board obstruction can occasionally cause a wrong reading. After each round you have to correct any dart's score if it is wrong by tapping it and selecting the correct value from the nearby options.
 
 ### What is a "foul play"?
 A foul is detected when the camera sees something unusual — for example, the dartboard moving too close to the camera, or a new dart appearing between throws without being thrown. When a foul is detected, the current round is reset.
