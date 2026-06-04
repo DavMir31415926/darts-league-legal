@@ -21,7 +21,7 @@ Point your phone camera at the dartboard before you throw. The app analyzes the 
 The detection is highly accurate but not perfect — lighting conditions, camera angle, or board obstruction can occasionally cause a wrong reading. After each round you have to correct any dart's score if it is wrong by tapping it and selecting the correct value from the nearby options.
 
 ### What is a "foul play"?
-A foul is detected when the camera sees something unusual — for example, the dartboard moving too close to the camera, or a new dart appearing between throws without being thrown. When a foul is detected, the current round is reset.
+A foul is detected when the camera sees something unusual — for example, the dartboard moving too close to the camera, or a new dart appearing between throws without being thrown. When a foul is detected, the current round is reset. A foul play that is detected does not necessarily mean you did something wrong it is just an indicator for us how often does something unusual happen when you play. When fouls are detected very often something is wrong, either you are trying to cheat or something with your setup is not compatible with our algorithm. The second of which we can than work on.
 
 ### How do I play with friends?
 1. Tap **FRIENDS** on the main screen.
