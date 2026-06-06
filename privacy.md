@@ -1,8 +1,8 @@
-# Privacy Policy for Darts League
+# Privacy Policy for Sticks
 
 **Last updated: June 2 2026**
 
-This Privacy Policy explains what information Darts League ("we", "our", "the app") collects, how we use it, and your rights regarding that information.
+This Privacy Policy explains what information Sticks ("we", "our", "the app") collects, how we use it, and your rights regarding that information.
 
 If you have questions, contact us at: **dartsleague.support@gmail.com**
 
@@ -101,7 +101,7 @@ To exercise any of these rights, contact us at **[YOUR EMAIL]**. We will respond
 
 ## 6. Children
 
-Darts League is not directed at children under the age of 13 (or the equivalent minimum age in your jurisdiction). We do not knowingly collect personal information from children under that age. If you believe a child has provided us with personal data, please contact us and we will delete it.
+Sticks is not directed at children under the age of 13 (or the equivalent minimum age in your jurisdiction). We do not knowingly collect personal information from children under that age. If you believe a child has provided us with personal data, please contact us and we will delete it.
 
 ---
 
