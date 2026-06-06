@@ -6,7 +6,7 @@ Need help with Sticks? You're in the right place.
 
 For any questions, bug reports, feedback, or account-related requests, email us at:
 
-**dartsleague.support@gmail.com**
+**sticks.support@gmail.com**
 
 We aim to respond within 2–3 business days.
 
@@ -49,7 +49,7 @@ When reporting a bug, please include:
 - What you expected vs. what actually happened
 - A screenshot or screen recording if possible
 
-Send to **dartsleague.support@gmail.com** with the subject line **"Bug Report"**.
+Send to **sticks.support@gmail.com** with the subject line **"Bug Report"**.
 
 ---
 
