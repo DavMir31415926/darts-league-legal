@@ -1,6 +1,6 @@
-# Darts League — Support
+# Sticks — Support
 
-Need help with Darts League? You're in the right place.
+Need help with Sticks? You're in the right place.
 
 ## Contact
 
