@@ -1,6 +1,6 @@
-# Darts League
+# Sticks
 
-Welcome. This page hosts the legal documents for the Darts League iOS app.
+Welcome. This page hosts the legal documents for the Sticks iOS app.
 
 - [Privacy Policy](privacy)
 - [Support](support)
