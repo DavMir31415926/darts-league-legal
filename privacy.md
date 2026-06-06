@@ -4,7 +4,7 @@
 
 This Privacy Policy explains what information Sticks ("we", "our", "the app") collects, how we use it, and your rights regarding that information.
 
-If you have questions, contact us at: **dartsleague.support@gmail.com**
+If you have questions, contact us at: **sticks.support@gmail.com**
 
 ---
 
@@ -121,7 +121,7 @@ We may update this Privacy Policy from time to time. The "Last updated" date at 
 
 If you have questions or concerns about this Privacy Policy or your personal data, contact us at:
 
-**dartsleague.support@gmail.com**
+**sticks.support@gmail.com**
 
 David Mirkovic
 Austria
